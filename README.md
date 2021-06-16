@@ -6,3 +6,4 @@
 - Bloco Try-with-resources
 - FileWriter e BufferedWriter
 - Manipulando pastas com File
+- Informações do caminho do arquivo
