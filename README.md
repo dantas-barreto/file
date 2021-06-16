@@ -5,3 +5,4 @@
 - FileReader e BufferedReader
 - Bloco Try-with-resources
 - FileWriter e BufferedWriter
+- Manipulando pastas com File
